@@ -1,4 +1,4 @@
-# PhoneNotes
+# Phone Notes
 Данный репозиторий является сервером приложения Phone Notes.
 
 Разработчик: Air Owlin
