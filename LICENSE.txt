@@ -1,7 +1,7 @@
 ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
 
 Автор: Air Owlin
-WWW: https://airowlin.github.io/sitephonenotes/
+WWW: https://airowlin.github.io/site/
 E-mail: phonenotes@yandex.com
 
 
