@@ -1,0 +1,27 @@
+LICENSE AGREEMENT
+
+Author: Air Owlin
+WWW: https://airowlin.github.io/site/
+E-mail: airowlindev@yandex.com
+
+
+This license agreement (hereinafter referred to as the "agreement") is a legal document concluded between you (an individual or legal entity, hereinafter referred to as the "User") and the developer (hereinafter referred to as the "Author") regarding the software product (hereinafter referred to as the "program" or "software"), which includes the software presented on the websitethe website of the "Author", any printed materials and any "embedded" or electronic documentation. By installing, copying or otherwise using the program, you thereby accept the terms of this agreement. If you do not accept the terms of this agreement, then you have no right to use this program and it should be immediately uninstalled.
+
+License
+1. THE SCOPE OF THE LICENSE.
+This agreement gives you the following rights:
+1.1. Using the program. It is allowed to store, install and run an unlimited number of copies of the program on one or different computers without any payment or other method of acquiring licenses.
+1.2. Use in other software products. It is allowed to include the entire program or its individual components in other software products, with mandatory mention of the name of the program, its author and a link to the program's website in the documentation or on the website of the software product.
+
+2. DESCRIPTION OF OTHER RIGHTS AND RESTRICTIONS.
+2.1. Restrictions on use. It is prohibited to use the software product on computers belonging to the following organizations and movements: none
+2.2. Restrictions on technology disclosure, decompilation and disassembly. It is not allowed to open the technology, decompile and disassemble the program, except and only to the extent that such actions are explicitly permitted by applicable law, despite the presence of this restriction in the agreement.
+2.3. Technical support services. The author provides technical support services for the software product (hereinafter referred to as "technical support services"). The Author is contacted for technical support at the email address indicated on the program's website or in the program itself. Technical data that are reported to the technical support service during the application may be used by the Author for internal purposes, including technical support of software products and software development. The author will not use this information in a form that discloses your personal information. All personal information will not be shared with third parties.
+2.4. Termination of the Agreement. Without prejudice to any of its other rights, the Author may terminate this agreement if the terms and limitations of this agreement are not observed, which will oblige you to destroy all available copies and component parts of the program.
+2.5. Amendment of the Agreement. The author reserves the right to change the terms of this license agreement in the future.
+
+3. COPYRIGHT.
+3.1. All ownership rights and copyrights to the program, its accompanying electronic materials and any copies of the program belong to the Author. All the Author's rights to the program are protected by laws and international copyright agreements, as well as other laws and treaties governing copyright relations. Therefore, the program must be treated like any other copyright object.
+
+4. VARIOUS PROGRAM MEDIA.
+4.1. The Program can be delivered on several types of media, as well as from the Author's website.

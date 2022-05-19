@@ -1,0 +1,10 @@
+PRIVACY POLICY
+
+Author: Air Owlin
+WWW: https://airowlin.github.io/site/
+E-mail: airowlindev@yandex.com
+
+This Privacy Policy (hereinafter referred to as the "policy") is a legal document concluded between you (an individual or legal entity, hereinafter referred to as the "User") and the developer (hereinafter referred to as the "Author") regarding a software product (hereinafter referred to as the "program" or "software"), which includes software presented on the websitethe website of the "Author", any printed materials and any "embedded" or electronic documentation. By installing, copying or otherwise using the program, you thereby agree to the terms of this policy. If you do not accept the terms of this policy, then you should immediately uninstall this software.
+
+Policy
+No data is transferred to third parties. All user information and its use are described in the LICENSE AGREEMENT.
