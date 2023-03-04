@@ -6,5 +6,5 @@ The server of the Phone Notes application.
 Dev: Air Owlin
 
 
-# Site project
+# Developer's website 
 Site: https://airowlin.github.io/site/
