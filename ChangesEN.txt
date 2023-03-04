@@ -1,0 +1,3 @@
+Version check changed,
+Added verification of the correctness of the entered year in the notes (when creating it),
+Updated scripts
