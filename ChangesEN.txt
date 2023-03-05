@@ -1,3 +1,8 @@
-Version check changed,
-Added verification of the correctness of the entered year in the notes (when creating it),
-Updated scripts
+Changed:
+Checking for updates,
+Checking the correctness of the year (date of the note),
+Scripts
+Added:
+List of changes when checking for updates
+Fixed:
+Red dot updates
